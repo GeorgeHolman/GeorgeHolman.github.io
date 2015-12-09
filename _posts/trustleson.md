@@ -1,5 +1,5 @@
 ---
-title: trust lesson
+title: trustlesson
 layout: post
 author: george.gibbins
 permalink: /untitled-document/
