@@ -1,6 +1,7 @@
 ---
 title: Lesson 2 Homework 2.0
 layout: post
+author: george.gibbins
 permalink: /lesson-2-homework-2.0/
 source-id: 1Tq-4AiQPar6FeJIpd9zZVWc-6MyZLz0UWTNVdOt5pY8
 published: true
