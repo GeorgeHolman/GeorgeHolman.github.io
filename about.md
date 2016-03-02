@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! I am awesome. Orange is the best. Thumbs up for rugby. Love badminton. 
 
 ### More Information
 
