@@ -18,8 +18,11 @@ html {
 }
 
 body {
-  background: url(sweettexture.jpg);
+	background:#ff8c1a;
+  font: 18px/1.4 $indie flower;
+  color: $darkGray;
 }
+
 
 .container {
   margin: 0 auto;
