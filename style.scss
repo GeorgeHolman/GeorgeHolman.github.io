@@ -128,7 +128,7 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $white;
+  color: $blue;
   background: $lightGray;
 }
 ::selection {
@@ -162,7 +162,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 5px solid $red;
 
   @include mobile {
     text-align: left;
@@ -171,9 +171,9 @@ img {
 
 .site-avatar {
   float: right;
-  width: 100px;
-  height: 100px;
-  margin-right: 15px;
+  width: 150px;
+  height: 150px;
+  margin-right: 22px;
 
   @include mobile {
     float: none;
