@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hello! I am awesome. Orange is the best. Thumbs up for rugby. Love badminton. 
+this is a blog. not much more to be honest but it is vital for my it lessons of this year
 
-### More Information
+### More Info
 
-Oh yeah and I love tacos!
+no! I said there was no more...
 
 ### Contact me
 
